@@ -2,7 +2,7 @@
 
 ## Fiamma Version
 
-Version [v0.1.0](https://github.com/fiamma-chain/fiamma/tree/v0.1.0)
+Version [v0.1.1](https://github.com/fiamma-chain/fiamma/tree/v0.1.1)
 
 ## Seed Nodes
 

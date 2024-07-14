@@ -19,3 +19,7 @@ Version [v0.1.2](https://github.com/fiamma-chain/fiamma/tree/v0.1.2)
 
 * https://testnet-api.fiammachain.io
 
+
+## GRPC Nodes
+
+* testnet-grpc.fiammachain.io:443

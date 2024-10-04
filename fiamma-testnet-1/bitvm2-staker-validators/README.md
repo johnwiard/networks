@@ -30,6 +30,17 @@ To ensure the security and quality of the network, we have established strict el
 Please use the following template to fill in your validator information: [validator-template.md](./validator-template.md)
 
 
+## Creating a Pull Request
+
+When you're ready to submit your validator information, please create a Pull Request using the [new_validator.md](../..//.github/PULL_REQUEST_TEMPLATE/new_validator.md) template. 
+
+Please ensure you:
+
+1. Use the correct template when creating your Pull Request.
+2. Fill in all required information as specified in the template.
+3. Review your submission for accuracy before submitting.
+
+Following this template is crucial for a quick review of your submission. If you have any questions, please contact the project maintainers.
 
 ## Review Process
 

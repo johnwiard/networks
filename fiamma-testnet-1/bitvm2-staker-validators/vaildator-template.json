@@ -1,0 +1,8 @@
+{
+    "validatorName": "[Your Validator Name]",
+    "fiammaAddress": "[Your Fiamma Address for receiving testnet tokens]",
+    "fiammaValidatorAddress": "[Your Fiamma Validator Address start with fiammavaloperxxxx]",
+    "website": "[Your Website]",
+    "contactEmail": "[Your Contact Email]",
+    "description": "[Your Description]"
+  }

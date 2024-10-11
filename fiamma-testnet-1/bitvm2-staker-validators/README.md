@@ -27,7 +27,7 @@ To ensure the security and quality of the network, we have established strict el
 
 ## Validator Information Template
 
-Please use the following template to fill in your validator information: [validator-template.json](./validator-template.json)
+Please use the following template to fill in your validator information: [validator-template.json](vaildator-template.json)
 
 
 ## Creating a Pull Request

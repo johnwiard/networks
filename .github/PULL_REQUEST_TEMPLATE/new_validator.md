@@ -4,6 +4,7 @@
    - Validator Name: [Your Validator Name]
    - Fiamma Address: [Your Fiamma Address for receiving testnet tokens]
    - Fiamma Validator Address: [Your Fiamma Validator Address start with fiammavaloperxxxx]
+   - BTC Address: [Your BTC Address for staking]
    - Website: [Your Website]
    - Description: [Your Description]
    - Contact Email: [Your Contact Email]

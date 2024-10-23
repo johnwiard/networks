@@ -1,21 +1,32 @@
-# Fiamma Network Validator Information Registry
+# Fiamma Chain Validator Information Registry
 
 This is the validator registration guide for the first phase of the Fiamma testnet.
 
 ## Background
 
-The Fiamma network is a blockchain developed using the Cosmos SDK, incorporating an innovative BitVM2 challenge mechanism. To become a validator on the Fiamma network, candidates must first stake BTC in our developed committee program. This unique staking mechanism is designed to support the BitVM2 challenge mechanism.
+The Fiamma chain is a blockchain developed using the Cosmos SDK, incorporating an innovative BitVM2 challenge mechanism. To become a validator on the Fiamma chain, candidates must first stake BTC in our developed committee program. This unique staking mechanism is designed to support the BitVM2 challenge mechanism.
 
-In this phase, we invite participants interested in becoming Fiamma network validators to submit their information. We will review this information and send test coins to eligible candidates, enabling them to formally join the network.
+In this phase, we invite participants interested in becoming Fiamma chain validators to submit their information. We will review this information and send test coins to eligible candidates, enabling them to formally join the network.
+
+Please note that our first round of public testnet is limited to 21 nodes, operating on a first-come, first-served basis.
 
 ## Registration Eligibility Criteria
 
 To ensure the security and quality of the network, we have established strict eligibility criteria. To be considered an eligible validator candidate, you need to meet the following requirements:
 
-- Having a specified number of testnet BTC for bitvm2 challenge program staking.
+- Having at least 1 signet BTC for bitvm2 challenge program staking.
 - Possess the technical capability to run a validator node
 - Submit complete and accurate validator information
 - Submit a Pull Request before the specified deadline (date to be determined)
+
+## Obtaining Fiamma Addresses
+
+Before proceeding with the registration, you'll need to obtain your Fiamma address and Fiamma validator address. Please follow the instructions in these guides:
+
+- [How to obtain a Fiamma address](https://docs.fiammachain.io/user-guides/manage-keys#list-keys)
+- [How to obtain a Fiamma validator address](https://docs.fiammachain.io/developer-guides/run-a-fiamma-node/become-a-validator#id-5-verify-your-validator)
+
+Make sure you have these addresses ready before proceeding with the registration steps.
 
 ## Registration Steps
 
@@ -58,24 +69,22 @@ Candidates who fail to register at this stage may still be able to participate i
 
 ## Modifying Validator Information
 
-During the first phase of the Fiamma testnet, validators can update the following information:
+During the first phase of the Fiamma testnet, the following information cannot be changed during this phase:
 
-- ✅ Website
-- ✅ Description
-- ✅ Contact information
-
-The following information cannot be changed during this phase:
-
-- ❌ Validator name
 - ❌ Fiamma address
 - ❌ Fiamma validator address
+- ❌ BTC address
 
 To update allowed information, please submit a new Pull Request following the initial registration steps.
 
-## Important Notes
+## After Submission
 
-- Ensure all information you provide is accurate and up-to-date.
-- Safeguard your private keys and mnemonics, as these are crucial for your validator identity.
-- If you encounter any issues during the registration process, please contact us through [contact@fiammachain.io](mailto:contact@fiammachain.io).
+Once your Pull Request is submitted, our team will review your application. If your PR is merged, it means your application has been accepted. Here's what happens next:
 
-We look forward to your participation in building the future of the Fiamma network!
+1. We will send a notification to the contact email you provided in your application.
+2. You will receive Fiamma testnet tokens to the Fiamma address you specified.
+3. You can then proceed with staking these tokens and setting up your validator node.
+
+For any questions or support, please refer to our [documentation](https://docs.fiammachain.io) or contact us through [contact@fiammachain.io](mailto:contact@fiammachain.io).
+
+We wish you success in your staking journey on the Fiamma testnet!
